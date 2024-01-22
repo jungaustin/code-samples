@@ -1,4 +1,4 @@
-//LeetCode Daily 01/15/24
+//LeetCode Daily 01/16/24
 public class RandomizedSet {
     HashSet<int> set;
     Random rnd;
